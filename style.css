@@ -1,9 +1,12 @@
 body {    
     
-    background: #07aaeb
+    background: #0790eb
 }   
-    
-    
+   
+
     p{
     text-align: center;
+}
+em strong {
+    color:white
 }
