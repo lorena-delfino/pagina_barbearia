@@ -1,8 +1,10 @@
 body {    
     
-    background: #0790eb
+    background: #131d1f
 }   
-   
+  h1{
+    text-align: center;
+  } 
 
     p{
     text-align: center;
